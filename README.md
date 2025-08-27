@@ -13,8 +13,8 @@ Este projeto foi inspirado em um desafio técnico, mas o objetivo principal foi 
 
 -   **Linguagem:** Java 21
 -   **Framework:** Spring Boot 3.5.5 (Web, AMQP, Data MongoDB)
--   **Mensageria:** RabbitMQ
--   **Banco de Dados:** MongoDB
+-   **Mensageria:** RabbitMQ (via Docker Compose)
+-   **Banco de Dados:** MongoDB (via Docker Compose)
 -   **Containerização:** Docker 
 
 ## 🚀 Como Executar
