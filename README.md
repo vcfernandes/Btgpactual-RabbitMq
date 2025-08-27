@@ -35,7 +35,8 @@ Este projeto foi inspirado em um desafio técnico, mas o objetivo principal foi 
 ## 🧪 Como Testar
 
 **1. Publique uma mensagem na fila do RabbitMQ**
-**2. Consulta a API
+
+**2. Consulta a API**
 
 Endpoint: GET /customers/{customerID}/orders
 
